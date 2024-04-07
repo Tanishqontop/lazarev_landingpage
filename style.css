@@ -2,12 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+     font-family: Gilroy;
     color: #fff;
-}
-
-@font-face {
- font-family: Poppins;
- src: url(Poppins.woff2) format('woff2');
 }
 
 html,
